@@ -37,7 +37,7 @@ This project demonstrates:
 ## ▶️ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/mile-to-km-converter.git
+   git clone https://github.com/martialchess/mile-to-km-converter.git
    cd mile-to-km-converter
 2. Run the Program:
    python main.py
