@@ -1,8 +1,8 @@
 from tkinter import *
 
 def calculate():
-    new_text = float(mile_input.get())
-    result = round(new_text * 1.60934)
+    miles = float(mile_input.get())
+    result = round(miles * 1.60934)
     default.config(text=result)
 
 window = Tk()
